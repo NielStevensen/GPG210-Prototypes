@@ -1,0 +1,1591 @@
+﻿Log file open, 11/26/18 09:11:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: PlatformerPrototype
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.865937
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin DatasmithMDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogStreaming: Display: Took  0.113s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.007s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.25-22.11.39:400][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.25-22.11.39:401][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.25-22.11.39:420][  0]LogHAL: Display: Platform has ~ 32 GB [34267594752 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.25-22.11.39:420][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.25-22.11.39:420][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.25-22.11.39:426][  0]LogInit: Computer: SYD-R304-PC06
+[2018.11.25-22.11.39:426][  0]LogInit: User: snielsen2
+[2018.11.25-22.11.39:426][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.25-22.11.39:426][  0]LogInit: High frequency timer resolution =3.328133 MHz
+[2018.11.25-22.11.39:426][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.11.25-22.11.39:426][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.25-22.11.39:426][  0]LogMemory: Process Physical Memory: 103.83 MB used, 103.83 MB peak
+[2018.11.25-22.11.39:426][  0]LogMemory: Process Virtual Memory: 96.25 MB used, 96.25 MB peak
+[2018.11.25-22.11.39:426][  0]LogMemory: Physical Memory: 3982.76 MB used,  28697.36 MB free, 32680.13 MB total
+[2018.11.25-22.11.39:426][  0]LogMemory: Virtual Memory: 4657.41 MB used,  28697.36 MB free, 134217728.00 MB total
+[2018.11.25-22.11.39:614][  0]LogInit: Using OS detected language (en-US).
+[2018.11.25-22.11.39:614][  0]LogInit: Using OS detected locale (en-AU).
+[2018.11.25-22.11.39:615][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.25-22.11.40:045][  0]LogStreaming: Display: Took  0.431s to InitEngineTextLocalization.
+[2018.11.25-22.11.40:046][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.25-22.11.40:123][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.25-22.11.40:123][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.25-22.11.41:933][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.25-22.11.41:933][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.25-22.11.41:983][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2018.11.25-22.11.41:983][  0]LogD3D11RHI:       4053/0/16340 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.25-22.11.41:984][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.25-22.11.41:984][  0]LogD3D11RHI:       0/0/16340 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.25-22.11.41:984][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.25-22.11.41:990][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.25-22.11.41:990][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.25-22.11.41:990][  0]LogWindows: EnumDisplayDevices:
+[2018.11.25-22.11.41:990][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2018.11.25-22.11.41:990][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.11.25-22.11.41:990][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.11.25-22.11.41:990][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.11.25-22.11.41:990][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.25-22.11.41:990][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2018.11.25-22.11.41:991][  0]LogD3D11RHI:   Driver Version: 398.82 (internal:24.21.13.9882, unified:398.82)
+[2018.11.25-22.11.41:991][  0]LogD3D11RHI:      Driver Date: 7-30-2018
+[2018.11.25-22.11.41:991][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.11.25-22.11.42:023][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.25-22.11.42:048][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.25-22.11.42:099][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Intermediate/Shaders/WorkingDirectory/60988/).
+[2018.11.25-22.11.42:099][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Snielsen2/AppData/Local/Temp/UnrealShaderWorkingDir/1D9DF2DB40F463497845DA8221BD8EBC/'.
+[2018.11.25-22.11.42:427][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.25-22.11.42:439][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.25-22.11.42:451][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.25-22.11.42:463][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.25-22.11.42:478][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.25-22.11.42:493][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.25-22.11.42:506][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.25-22.11.42:517][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.25-22.11.42:524][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.25-22.11.42:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-22.11.42:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-22.11.42:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-22.11.42:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-22.11.42:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-22.11.42:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-22.11.42:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-22.11.42:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-22.11.42:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-22.11.42:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-22.11.42:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-22.11.42:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-22.11.42:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-22.11.42:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-22.11.42:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-22.11.42:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-22.11.42:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-22.11.42:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.25-22.11.42:604][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.25-22.11.42:673][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.25-22.11.42:673][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.25-22.11.42:693][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.25-22.11.42:693][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.25-22.11.42:706][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.25-22.11.42:718][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.25-22.11.42:730][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.25-22.11.42:749][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.25-22.11.42:758][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.25-22.11.42:758][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.25-22.11.42:863][  0]LogXGEController: Cleaning working directory: C:/Users/Snielsen2/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.25-22.11.42:863][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.25-22.11.42:863][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.25-22.11.42:863][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.25-22.11.44:402][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.25-22.11.44:631][  0]LogDerivedDataCache: Loaded boot cache 0.23s 72MB C:/Users/Snielsen2/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.25-22.11.44:631][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Snielsen2/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.25-22.11.44:631][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.25-22.11.44:631][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.25-22.11.44:631][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.25-22.11.44:631][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.25-22.11.44:663][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.25-22.11.44:676][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Snielsen2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.25-22.11.44:676][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.25-22.11.44:676][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.25-22.11.44:697][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.25-22.11.44:704][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.25-22.11.44:719][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.25-22.11.44:971][  0]LogAssetRegistry: FAssetRegistry took 0.0283 seconds to start up
+[2018.11.25-22.11.45:304][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.25-22.11.45:586][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.25-22.11.45:600][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.25-22.11.45:601][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.25-22.11.45:601][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.25-22.11.45:601][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.25-22.11.45:646][  0]LogNetVersion: PlatformerPrototype 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3545419167)
+[2018.11.25-22.11.46:662][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 2 prioritized culture(s) in 0.119779 seconds
+[2018.11.25-22.11.46:669][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.25-22.11.46:669][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.11.25-22.11.46:669][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.25-22.11.49:420][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.25-22.11.49:436][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.25-22.11.49:697][  0]SourceControl: Source control is disabled
+[2018.11.25-22.11.49:697][  0]SourceControl: Source control is disabled
+[2018.11.25-22.11.49:705][  0]SourceControl: Source control is disabled
+[2018.11.25-22.11.49:709][  0]SourceControl: Source control is disabled
+[2018.11.25-22.11.49:987][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.25-22.11.50:051][  0]LogOcInput: OculusInput pre-init called
+[2018.11.25-22.11.51:987][  0]LogEngine: Initializing Engine...
+[2018.11.25-22.11.51:989][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.25-22.11.51:992][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2018.11.25-22.11.51:992][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.25-22.11.51:992][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.25-22.11.51:992][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.25-22.11.52:177][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.25-22.11.52:203][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.25-22.11.52:221][  0]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.25-22.11.52:281][  0]LogInit: FAudioDevice initialized.
+[2018.11.25-22.11.52:281][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.25-22.11.52:357][  0]LogDerivedDataCache: Saved boot cache 0.08s 72MB C:/Users/Snielsen2/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.25-22.11.52:360][  0]LogInit: Texture streaming: Enabled
+[2018.11.25-22.11.52:379][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.25-22.11.52:394][  0]LogInit: Transaction tracking system initialized
+[2018.11.25-22.11.52:437][  0]BlueprintLog: New page: Editor Load
+[2018.11.25-22.11.52:596][  0]LocalizationService: Localization service is disabled
+[2018.11.25-22.11.52:928][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.25-22.11.52:929][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.25-22.11.52:929][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.25-22.11.52:929][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.25-22.11.52:929][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.25-22.11.52:929][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/' took 0.02s
+[2018.11.25-22.11.52:929][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.25-22.11.52:929][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.25-22.11.54:195][  0]SourceControl: Source control is disabled
+[2018.11.25-22.11.54:196][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.25-22.11.54:196][  0]LightingResults: New page: Lighting Build
+[2018.11.25-22.11.54:203][  0]MapCheck: New page: Map Check
+[2018.11.25-22.11.54:203][  0]LightingResults: New page: Lighting Build
+[2018.11.25-22.11.54:233][  0]LogAIModule: Creating AISystem for world Menu
+[2018.11.25-22.11.54:238][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.25-22.11.54:264][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.25-22.11.54:316][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 50.943ms to complete.
+[2018.11.25-22.11.54:316][  0]LogFileHelpers: Loading map 'Menu' took 0.121
+[2018.11.25-22.11.54:454][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-22.11.54:461][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-22.11.54:468][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-22.11.54:474][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-22.11.54:492][  0]LogCollectionManager: Loaded 0 collections in 0.001636 seconds
+[2018.11.25-22.11.54:544][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/Collections/' took 0.01s
+[2018.11.25-22.11.54:544][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/Developers/snielsen2/Collections/' took 0.01s
+[2018.11.25-22.11.54:544][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/Collections/' took 0.01s
+[2018.11.25-22.11.54:544][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.25-22.11.54:556][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2621 classes and 629 folders.
+[2018.11.25-22.11.54:568][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.25-22.11.54:921][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.25-22.11.54:938][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.25-22.11.55:069][  0]LogSlate: Took 0.006325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.25-22.11.55:075][  0]LogSlate: Took 0.003849 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.25-22.11.55:086][  0]LogSlate: Took 0.004172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.25-22.11.55:193][  0]LogRenderer: Reallocating scene render targets to support 1616x800 Format 10 NumSamples 1 (Frame:1).
+[2018.11.25-22.11.55:399][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.25-22.11.55:399][  0]LogLoad: (Engine Initialization) Total time: 20.64 seconds
+[2018.11.25-22.11.55:399][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.25-22.11.55:430][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.25-22.11.55:493][  1]LogAssetRegistry: Asset discovery search completed in 10.5435 seconds
+[2018.11.25-22.11.55:494][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.25-22.11.55:494][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2018.11.25-22.11.58:725][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.11.59:848][515]LogSlate: Took 0.006059 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.25-22.12.00:372][515]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave FOOTSTEPS__A__Walking_Loop_01...
+[2018.11.25-22.12.00:372][515]LogTemp: Couldn't find amount to resample to.
+[2018.11.25-22.12.00:418][515]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave SUCCESS_PICKUP_Collect_Chime_01...
+[2018.11.25-22.12.00:418][515]LogTemp: Couldn't find amount to resample to.
+[2018.11.25-22.12.00:480][515]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave POP_Echo_Bouncer_01...
+[2018.11.25-22.12.00:480][515]LogTemp: Couldn't find amount to resample to.
+[2018.11.25-22.12.00:634][515]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave EXPLOSION_Bang_04...
+[2018.11.25-22.12.00:634][515]LogTemp: Couldn't find amount to resample to.
+[2018.11.25-22.12.00:704][515]LogAIModule: Creating AISystem for world TestingSN
+[2018.11.25-22.12.00:726][515]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/TestingSN.TestingSN
+[2018.11.25-22.12.00:757][515]Cmd: MAP LOAD FILE="../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/Maps/TestingSN.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.25-22.12.00:757][515]LightingResults: New page: Lighting Build
+[2018.11.25-22.12.00:757][515]LoadErrors: New page: Loading map: TestingSN.umap
+[2018.11.25-22.12.00:758][515]MapCheck: New page: Map Check
+[2018.11.25-22.12.00:758][515]LightingResults: New page: Lighting Build
+[2018.11.25-22.12.00:860][515]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.25-22.12.00:931][515]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.25-22.12.00:995][515]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.724ms to complete.
+[2018.11.25-22.12.00:995][515]LogFileHelpers: Loading map 'TestingSN' took 0.239
+[2018.11.25-22.12.06:649][155]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-22.12.06:661][155]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Level1SN.Level1SN
+[2018.11.25-22.12.06:682][155]Cmd: MAP LOAD FILE="../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Maps/Level1SN.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.25-22.12.06:682][155]LightingResults: New page: Lighting Build
+[2018.11.25-22.12.06:682][155]LoadErrors: New page: Loading map: Level1SN.umap
+[2018.11.25-22.12.06:683][155]MapCheck: New page: Map Check
+[2018.11.25-22.12.06:683][155]LightingResults: New page: Lighting Build
+[2018.11.25-22.12.06:792][155]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.25-22.12.06:854][155]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.25-22.12.06:915][155]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.253ms to complete.
+[2018.11.25-22.12.06:916][155]LogFileHelpers: Loading map 'Level1SN' took 0.235
+[2018.11.25-22.12.07:698][231]LogAIModule: Creating AISystem for world Menu
+[2018.11.25-22.12.07:700][231]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Menu.Menu
+[2018.11.25-22.12.07:718][231]Cmd: MAP LOAD FILE="../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.25-22.12.07:718][231]LightingResults: New page: Lighting Build
+[2018.11.25-22.12.07:720][231]LoadErrors: New page: Loading map: Menu.umap
+[2018.11.25-22.12.07:720][231]MapCheck: New page: Map Check
+[2018.11.25-22.12.07:720][231]LightingResults: New page: Lighting Build
+[2018.11.25-22.12.07:785][231]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.25-22.12.07:840][231]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.25-22.12.07:900][231]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.793ms to complete.
+[2018.11.25-22.12.07:901][231]LogFileHelpers: Loading map 'Menu' took 0.183
+[2018.11.25-22.12.08:769][319]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.25-22.12.08:800][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.25-22.12.08:813][319]PIE: New page: PIE session: Menu (26 Nov 2018 8:12:08 pm)
+[2018.11.25-22.12.08:814][319]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu
+[2018.11.25-22.12.08:815][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000949s)
+[2018.11.25-22.12.08:815][319]LogAIModule: Creating AISystem for world Menu
+[2018.11.25-22.12.08:816][319]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2018.11.25-22.12.08:816][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menu.Menu to /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu.Menu (0.001724s)
+[2018.11.25-22.12.08:841][319]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.25-22.12.08:850][319]LogInit: FAudioDevice initialized.
+[2018.11.25-22.12.08:893][319]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-22.12.08:895][319]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2018.11.26-09.12.08
+[2018.11.25-22.12.08:895][319]LogWorld: Bringing up level for play took: 0.000313
+[2018.11.25-22.12.08:914][319]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.11.25-22.12.08:928][319]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu 0.207
+[2018.11.25-22.12.10:169][465]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-22.12.10:169][465]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-22.12.10:568][465]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-22.12.10:568][465]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-22.12.10:596][465]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-09.12.10
+[2018.11.25-22.12.10:596][465]LogWorld: Bringing up level for play took: 0.025957
+[2018.11.25-22.12.10:599][465]LogLoad: Took 0.429349 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Level1SN)
+[2018.11.25-22.12.13:599][761]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-22.12.13:599][761]LogBlueprintUserMessages: [BP_Coin6] Got Coin
+[2018.11.25-22.12.14:569][870]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.11.25-22.12.14:570][870]LogBlueprintUserMessages: [BP_Coin4] Got Coin
+[2018.11.25-22.12.16:669][122]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2018.11.25-22.12.16:669][122]LogBlueprintUserMessages: [BP_Coin3] Got Coin
+[2018.11.25-22.12.17:719][248]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.11.25-22.12.17:720][248]LogBlueprintUserMessages: [BP_Coin5] Got Coin
+[2018.11.25-22.12.18:619][356]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 50
+[2018.11.25-22.12.18:620][356]LogBlueprintUserMessages: [BP_Coin2] Got Coin
+[2018.11.25-22.12.18:620][356]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 60
+[2018.11.25-22.12.18:620][356]LogBlueprintUserMessages: [BP_Coin_2] Got Coin
+[2018.11.25-22.12.20:405][570]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 70
+[2018.11.25-22.12.20:405][570]LogBlueprintUserMessages: [BP_Coin9] Got Coin
+[2018.11.25-22.12.31:571][909]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 80
+[2018.11.25-22.12.31:571][909]LogBlueprintUserMessages: [BP_Coin8] Got Coin
+[2018.11.25-22.12.51:140][252]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 90
+[2018.11.25-22.12.51:141][252]LogBlueprintUserMessages: [BP_Coin7] Got Coin
+[2018.11.25-22.12.53:524][538]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 100
+[2018.11.25-22.12.53:525][538]LogBlueprintUserMessages: [BP_Coin10] Got Coin
+[2018.11.25-22.12.57:748][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-22.13.02:747][644]LogNet: Browse: /Game/ThirdPersonBP/Maps/Thomas_List_Levels/New_Level_2
+[2018.11.25-22.13.02:747][644]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Thomas_List_Levels/New_Level_2
+[2018.11.25-22.13.02:941][644]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave RETRO_Jump_Up_Bounce_Long_03...
+[2018.11.25-22.13.02:941][644]LogTemp: Couldn't find amount to resample to.
+[2018.11.25-22.13.03:006][644]LogAIModule: Creating AISystem for world New_Level_2
+[2018.11.25-22.13.03:006][644]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-22.13.03:023][644]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Thomas_List_Levels/UEDPIE_0_New_Level_2.New_Level_2 up for play (max tick rate 0) at 2018.11.26-09.13.03
+[2018.11.25-22.13.03:024][644]LogWorld: Bringing up level for play took: 0.017049
+[2018.11.25-22.13.03:026][644]LogLoad: Took 0.278261 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Thomas_List_Levels/New_Level_2)
+[2018.11.25-22.13.46:175][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-22.13.46:176][  1]LogBlueprintUserMessages: [BP_Coin8] Got Coin
+[2018.11.25-22.13.48:693][218]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.11.25-22.13.48:693][218]LogBlueprintUserMessages: [BP_Coin11] Got Coin
+[2018.11.25-22.13.49:989][325]LogBlueprintUserMessages: [BP_HighJump_3] High Jump Start
+[2018.11.25-22.13.51:686][452]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2018.11.25-22.13.51:687][452]LogBlueprintUserMessages: [BP_Coin6] Got Coin
+[2018.11.25-22.13.51:922][472]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.11.25-22.13.51:922][472]LogBlueprintUserMessages: [BP_Coin5] Got Coin
+[2018.11.25-22.14.00:599][292]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] High Jump end
+[2018.11.25-22.14.01:157][347]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 50
+[2018.11.25-22.14.01:158][347]LogBlueprintUserMessages: [BP_Coin2] Got Coin
+[2018.11.25-22.14.09:339][114]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 60
+[2018.11.25-22.14.09:339][114]LogBlueprintUserMessages: [BP_Coin18_30] Got Coin
+[2018.11.25-22.14.12:561][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-22.14.17:560][ 56]LogNet: Browse: /Game/ThirdPersonBP/Maps/Isaac_levels/Level_3
+[2018.11.25-22.14.17:560][ 56]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Isaac_levels/Level_3
+[2018.11.25-22.14.17:848][ 56]LogAIModule: Creating AISystem for world Level_3
+[2018.11.25-22.14.17:848][ 56]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-22.14.17:877][ 56]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Isaac_levels/UEDPIE_0_Level_3.Level_3 up for play (max tick rate 0) at 2018.11.26-09.14.17
+[2018.11.25-22.14.17:879][ 56]LogWorld: Bringing up level for play took: 0.029270
+[2018.11.25-22.14.17:881][ 56]LogLoad: Took 0.321082 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Isaac_levels/Level_3)
+[2018.11.25-22.14.32:911][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-22.14.32:944][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.25-22.14.32:970][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-22.14.33:013][859]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.11.25-22.15.27:532][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.15.27:638][463]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.25-22.15.27:659][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.25-22.15.27:659][463]PIE: New page: PIE session: Menu (26 Nov 2018 8:15:27 pm)
+[2018.11.25-22.15.27:662][463]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu
+[2018.11.25-22.15.27:663][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000509s)
+[2018.11.25-22.15.27:664][463]LogAIModule: Creating AISystem for world Menu
+[2018.11.25-22.15.27:664][463]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2018.11.25-22.15.27:664][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menu.Menu to /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu.Menu (0.001195s)
+[2018.11.25-22.15.27:687][463]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.25-22.15.27:696][463]LogInit: FAudioDevice initialized.
+[2018.11.25-22.15.27:724][463]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-22.15.27:725][463]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2018.11.26-09.15.27
+[2018.11.25-22.15.27:726][463]LogWorld: Bringing up level for play took: 0.000251
+[2018.11.25-22.15.27:739][463]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu -0.494
+[2018.11.25-22.15.29:026][620]LogNet: Browse: /Game/ThirdPersonBP/Maps/Isaac_levels/Level_3
+[2018.11.25-22.15.29:026][620]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Isaac_levels/Level_3
+[2018.11.25-22.15.29:214][620]LogAIModule: Creating AISystem for world Level_3
+[2018.11.25-22.15.29:214][620]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-22.15.29:241][620]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Isaac_levels/UEDPIE_0_Level_3.Level_3 up for play (max tick rate 0) at 2018.11.26-09.15.29
+[2018.11.25-22.15.29:242][620]LogWorld: Bringing up level for play took: 0.026501
+[2018.11.25-22.15.29:244][620]LogLoad: Took 0.221856 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Isaac_levels/Level_3)
+[2018.11.25-22.15.32:526][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-22.15.32:526][  1]LogBlueprintUserMessages: [BP_Coin8] Got Coin
+[2018.11.25-22.15.36:870][484]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.11.25-22.15.36:871][484]LogBlueprintUserMessages: [BP_Coin2_2] Got Coin
+[2018.11.25-22.15.38:945][608]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2018.11.25-22.15.38:945][608]LogBlueprintUserMessages: [BP_Coin18] Got Coin
+[2018.11.25-22.16.07:972][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-22.16.12:870][675]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-22.16.12:871][675]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-22.16.13:026][675]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-22.16.13:027][675]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-22.16.13:038][675]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-09.16.13
+[2018.11.25-22.16.13:039][675]LogWorld: Bringing up level for play took: 0.010884
+[2018.11.25-22.16.13:040][675]LogLoad: Took 0.172979 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Level1SN)
+[2018.11.25-22.20.29:420][455]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-22.20.29:421][455]LogBlueprintUserMessages: [BP_Coin10] Got Coin
+[2018.11.25-22.20.32:097][772]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.11.25-22.20.32:097][772]LogBlueprintUserMessages: [BP_Coin7] Got Coin
+[2018.11.25-22.20.38:668][546]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2018.11.25-22.20.38:668][546]LogBlueprintUserMessages: [BP_Coin2] Got Coin
+[2018.11.25-22.20.38:668][546]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.11.25-22.20.38:668][546]LogBlueprintUserMessages: [BP_Coin_2] Got Coin
+[2018.11.25-22.20.39:624][658]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 50
+[2018.11.25-22.20.39:624][658]LogBlueprintUserMessages: [BP_Coin5] Got Coin
+[2018.11.25-22.20.40:633][779]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 60
+[2018.11.25-22.20.40:633][779]LogBlueprintUserMessages: [BP_Coin3] Got Coin
+[2018.11.25-22.20.42:891][ 50]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 70
+[2018.11.25-22.20.42:891][ 50]LogBlueprintUserMessages: [BP_Coin4] Got Coin
+[2018.11.25-22.20.43:741][152]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 80
+[2018.11.25-22.20.43:741][152]LogBlueprintUserMessages: [BP_Coin6] Got Coin
+[2018.11.25-22.20.45:926][414]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 90
+[2018.11.25-22.20.45:926][414]LogBlueprintUserMessages: [BP_Coin9] Got Coin
+[2018.11.25-22.20.49:450][837]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 100
+[2018.11.25-22.20.49:450][837]LogBlueprintUserMessages: [BP_Coin8] Got Coin
+[2018.11.25-22.21.01:748][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-22.21.06:746][912]LogNet: Browse: /Game/ThirdPersonBP/Maps/Thomas_List_Levels/New_Level_2
+[2018.11.25-22.21.06:746][912]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Thomas_List_Levels/New_Level_2
+[2018.11.25-22.21.06:938][912]LogAIModule: Creating AISystem for world New_Level_2
+[2018.11.25-22.21.06:938][912]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-22.21.06:955][912]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Thomas_List_Levels/UEDPIE_0_New_Level_2.New_Level_2 up for play (max tick rate 0) at 2018.11.26-09.21.06
+[2018.11.25-22.21.06:955][912]LogWorld: Bringing up level for play took: 0.015702
+[2018.11.25-22.21.06:957][912]LogLoad: Took 0.210834 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Thomas_List_Levels/New_Level_2)
+[2018.11.25-22.21.09:009][ 96]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-22.21.09:009][ 96]LogBlueprintUserMessages: [BP_Coin8] Got Coin
+[2018.11.25-22.21.11:694][319]LogBlueprintUserMessages: [BP_HighJump_3] High Jump Start
+[2018.11.25-22.21.14:851][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-22.21.14:895][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.25-22.21.14:933][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-22.21.14:964][579]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.11.25-22.22.16:488][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.22.16:597][964]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.25-22.22.16:618][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.25-22.22.16:619][964]PIE: New page: PIE session: Menu (26 Nov 2018 8:22:16 pm)
+[2018.11.25-22.22.16:622][964]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu
+[2018.11.25-22.22.16:622][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000436s)
+[2018.11.25-22.22.16:623][964]LogAIModule: Creating AISystem for world Menu
+[2018.11.25-22.22.16:623][964]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2018.11.25-22.22.16:623][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menu.Menu to /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu.Menu (0.001189s)
+[2018.11.25-22.22.16:647][964]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.25-22.22.16:656][964]LogInit: FAudioDevice initialized.
+[2018.11.25-22.22.16:683][964]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-22.22.16:684][964]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2018.11.26-09.22.16
+[2018.11.25-22.22.16:684][964]LogWorld: Bringing up level for play took: 0.000248
+[2018.11.25-22.22.16:698][964]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu 0.052
+[2018.11.25-22.22.18:236][148]LogNet: Browse: /Game/ThirdPersonBP/Maps/Thomas_List_Levels/New_Level_2
+[2018.11.25-22.22.18:236][148]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Thomas_List_Levels/New_Level_2
+[2018.11.25-22.22.18:415][148]LogAIModule: Creating AISystem for world New_Level_2
+[2018.11.25-22.22.18:415][148]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-22.22.18:431][148]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Thomas_List_Levels/UEDPIE_0_New_Level_2.New_Level_2 up for play (max tick rate 0) at 2018.11.26-09.22.18
+[2018.11.25-22.22.18:432][148]LogWorld: Bringing up level for play took: 0.015377
+[2018.11.25-22.22.18:434][148]LogLoad: Took 0.197494 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Thomas_List_Levels/New_Level_2)
+[2018.11.25-22.22.20:319][336]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-22.22.20:319][336]LogBlueprintUserMessages: [BP_Coin8] Got Coin
+[2018.11.25-22.22.22:184][501]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.11.25-22.22.22:184][501]LogBlueprintUserMessages: [BP_Coin11] Got Coin
+[2018.11.25-22.22.22:988][564]LogBlueprintUserMessages: [BP_HighJump_3] High Jump Start
+[2018.11.25-22.22.24:585][684]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2018.11.25-22.22.24:585][684]LogBlueprintUserMessages: [BP_Coin4] Got Coin
+[2018.11.25-22.22.24:848][706]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.11.25-22.22.24:848][706]LogBlueprintUserMessages: [BP_Coin3_6] Got Coin
+[2018.11.25-22.22.28:351][ 10]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 50
+[2018.11.25-22.22.28:351][ 10]LogBlueprintUserMessages: [BP_Coin15] Got Coin
+[2018.11.25-22.22.29:742][142]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 60
+[2018.11.25-22.22.29:743][142]LogBlueprintUserMessages: [BP_Coin13_20] Got Coin
+[2018.11.25-22.22.33:476][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-22.22.33:599][526]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] High Jump end
+[2018.11.25-22.22.34:918][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-22.22.34:948][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.25-22.22.34:970][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-22.22.35:016][686]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.11.25-22.23.29:878][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.23.33:022][640]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.25-22.23.33:164][640]LogAIModule: Creating AISystem for world TestingSN
+[2018.11.25-22.23.34:743][640]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.25-22.26.45:710][439]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Scrapped/Ranger.Ranger_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Ranger.PackageMetaData'
+[2018.11.25-22.26.45:710][439]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Scrapped/Ranger.SKEL_Ranger_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Ranger.PackageMetaData'
+[2018.11.25-22.26.45:710][439]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Scrapped/Ranger.SKEL_Ranger_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Ranger.PackageMetaData'
+[2018.11.25-22.26.45:710][439]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Scrapped/Ranger.SKEL_Ranger_C:TargetPointIndex' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Ranger.PackageMetaData'
+[2018.11.25-22.26.45:711][439]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Scrapped/Ranger.SKEL_Ranger_C:TargetPoints' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Ranger.PackageMetaData'
+[2018.11.25-22.26.45:711][439]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Scrapped/Ranger.SKEL_Ranger_C:BaseLookUpRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Ranger.PackageMetaData'
+[2018.11.25-22.26.45:711][439]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Scrapped/Ranger.SKEL_Ranger_C:BaseTurnRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Ranger.PackageMetaData'
+[2018.11.25-22.26.45:711][439]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Scrapped/Ranger.SKEL_Ranger_C:PawnSensing' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Ranger.PackageMetaData'
+[2018.11.25-22.26.45:711][439]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Scrapped/Ranger.SKEL_Ranger_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Ranger.PackageMetaData'
+[2018.11.25-22.26.45:711][439]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Scrapped/Ranger.SKEL_Ranger_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Ranger.PackageMetaData'
+[2018.11.25-22.26.45:711][439]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Scrapped/Ranger.Ranger_C:TargetPointIndex' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Ranger.PackageMetaData'
+[2018.11.25-22.26.45:711][439]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Scrapped/Ranger.Ranger_C:TargetPoints' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Ranger.PackageMetaData'
+[2018.11.25-22.26.45:711][439]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Scrapped/Ranger.Ranger_C:BaseLookUpRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Ranger.PackageMetaData'
+[2018.11.25-22.26.45:711][439]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Scrapped/Ranger.Ranger_C:BaseTurnRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Ranger.PackageMetaData'
+[2018.11.25-22.26.45:711][439]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Scrapped/Ranger.Ranger_C:PawnSensing' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Ranger.PackageMetaData'
+[2018.11.25-22.26.45:711][439]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Scrapped/Ranger.Ranger_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Ranger.PackageMetaData'
+[2018.11.25-22.26.45:711][439]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Scrapped/Ranger.Ranger_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Ranger.PackageMetaData'
+[2018.11.25-22.26.45:711][439]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Scrapped/Ranger.Ranger_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Ranger.PackageMetaData'
+[2018.11.25-22.26.45:766][439]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/RangerB2260A0D42D6BF8781634F9CF25865C9.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/Scrapped/Ranger.uasset'
+[2018.11.25-22.27.19:048][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_MainMenu.BP_MainMenu_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_MainMenu.PackageMetaData'
+[2018.11.25-22.27.19:048][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_MainMenu.BP_MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_MainMenu.PackageMetaData'
+[2018.11.25-22.27.19:048][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_MainMenu.BP_MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_MainMenu.PackageMetaData'
+[2018.11.25-22.27.19:048][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_MainMenu.BP_MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_MainMenu.PackageMetaData'
+[2018.11.25-22.27.19:048][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_MainMenu.SKEL_BP_MainMenu_C:PreConstruct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_MainMenu.PackageMetaData'
+[2018.11.25-22.27.19:048][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_MainMenu.SKEL_BP_MainMenu_C:Construct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_MainMenu.PackageMetaData'
+[2018.11.25-22.27.19:048][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_MainMenu.SKEL_BP_MainMenu_C:Tick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_MainMenu.PackageMetaData'
+[2018.11.25-22.27.19:048][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_MainMenu.SKEL_BP_MainMenu_C:BndEvt__Button_62_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_MainMenu.PackageMetaData'
+[2018.11.25-22.27.19:048][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_MainMenu.SKEL_BP_MainMenu_C:BndEvt__Button_132_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_MainMenu.PackageMetaData'
+[2018.11.25-22.27.19:048][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_MainMenu.SKEL_BP_MainMenu_C:BndEvt__Button_31_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_MainMenu.PackageMetaData'
+[2018.11.25-22.27.19:048][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_MainMenu.SKEL_BP_MainMenu_C:Button_132' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_MainMenu.PackageMetaData'
+[2018.11.25-22.27.19:048][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_MainMenu.SKEL_BP_MainMenu_C:Button_62' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_MainMenu.PackageMetaData'
+[2018.11.25-22.27.19:048][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_MainMenu.SKEL_BP_MainMenu_C:Button_31' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_MainMenu.PackageMetaData'
+[2018.11.25-22.27.19:048][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_MainMenu.SKEL_BP_MainMenu_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_MainMenu.PackageMetaData'
+[2018.11.25-22.27.19:048][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_MainMenu.BP_MainMenu_C:Button_132' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_MainMenu.PackageMetaData'
+[2018.11.25-22.27.19:048][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_MainMenu.BP_MainMenu_C:Button_62' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_MainMenu.PackageMetaData'
+[2018.11.25-22.27.19:048][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_MainMenu.BP_MainMenu_C:Button_31' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_MainMenu.PackageMetaData'
+[2018.11.25-22.27.19:056][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Prompt.BP_Prompt_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Prompt.PackageMetaData'
+[2018.11.25-22.27.19:057][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Prompt.BP_Prompt:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Prompt.PackageMetaData'
+[2018.11.25-22.27.19:057][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Prompt.BP_Prompt:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Prompt.PackageMetaData'
+[2018.11.25-22.27.19:057][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Prompt.BP_Prompt:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Prompt.PackageMetaData'
+[2018.11.25-22.27.19:057][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Prompt.BP_Prompt:Get_Popup_Text_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Prompt.PackageMetaData'
+[2018.11.25-22.27.19:057][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Prompt.BP_Prompt:Get_Popup_Text_0.K2Node_FunctionResult_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Prompt.PackageMetaData'
+[2018.11.25-22.27.19:057][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Prompt.SKEL_BP_Prompt_C:PreConstruct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Prompt.PackageMetaData'
+[2018.11.25-22.27.19:057][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Prompt.SKEL_BP_Prompt_C:Construct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Prompt.PackageMetaData'
+[2018.11.25-22.27.19:057][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Prompt.SKEL_BP_Prompt_C:Tick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Prompt.PackageMetaData'
+[2018.11.25-22.27.19:057][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Prompt.SKEL_BP_Prompt_C:PopupText' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Prompt.PackageMetaData'
+[2018.11.25-22.27.19:057][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Prompt.SKEL_BP_Prompt_C:Popup' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Prompt.PackageMetaData'
+[2018.11.25-22.27.19:057][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Prompt.SKEL_BP_Prompt_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Prompt.PackageMetaData'
+[2018.11.25-22.27.19:057][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Prompt.BP_Prompt_C:PopupText' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Prompt.PackageMetaData'
+[2018.11.25-22.27.19:057][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Prompt.BP_Prompt_C:Popup' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Prompt.PackageMetaData'
+[2018.11.25-22.27.19:063][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/ScoreTable.ScoreTable_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ScoreTable.PackageMetaData'
+[2018.11.25-22.27.19:063][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/ScoreTable.ScoreTable:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ScoreTable.PackageMetaData'
+[2018.11.25-22.27.19:063][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/ScoreTable.ScoreTable:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ScoreTable.PackageMetaData'
+[2018.11.25-22.27.19:063][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/ScoreTable.ScoreTable:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ScoreTable.PackageMetaData'
+[2018.11.25-22.27.19:063][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/ScoreTable.ScoreTable:GetText_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ScoreTable.PackageMetaData'
+[2018.11.25-22.27.19:063][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/ScoreTable.ScoreTable:GetText_0.K2Node_FunctionResult_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ScoreTable.PackageMetaData'
+[2018.11.25-22.27.19:063][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/ScoreTable.SKEL_ScoreTable_C:PreConstruct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ScoreTable.PackageMetaData'
+[2018.11.25-22.27.19:063][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/ScoreTable.SKEL_ScoreTable_C:Construct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ScoreTable.PackageMetaData'
+[2018.11.25-22.27.19:063][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/ScoreTable.SKEL_ScoreTable_C:Tick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ScoreTable.PackageMetaData'
+[2018.11.25-22.27.19:063][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/ScoreTable.SKEL_ScoreTable_C:ScoreList' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ScoreTable.PackageMetaData'
+[2018.11.25-22.27.19:063][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/ScoreTable.SKEL_ScoreTable_C:ScoreDisplay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ScoreTable.PackageMetaData'
+[2018.11.25-22.27.19:063][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/ScoreTable.SKEL_ScoreTable_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ScoreTable.PackageMetaData'
+[2018.11.25-22.27.19:063][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/ScoreTable.ScoreTable_C:ScoreList' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ScoreTable.PackageMetaData'
+[2018.11.25-22.27.19:064][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/ScoreTable.ScoreTable_C:ScoreDisplay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ScoreTable.PackageMetaData'
+[2018.11.25-22.27.19:070][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Timer.BP_Timer_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Timer.PackageMetaData'
+[2018.11.25-22.27.19:071][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Timer.BP_Timer:Get_Popup_Text_1.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Timer.PackageMetaData'
+[2018.11.25-22.27.19:071][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Timer.SKEL_BP_Timer_C:PreConstruct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Timer.PackageMetaData'
+[2018.11.25-22.27.19:071][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Timer.SKEL_BP_Timer_C:Construct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Timer.PackageMetaData'
+[2018.11.25-22.27.19:071][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Timer.SKEL_BP_Timer_C:Tick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Timer.PackageMetaData'
+[2018.11.25-22.27.19:071][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Timer.SKEL_BP_Timer_C:PopupText' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Timer.PackageMetaData'
+[2018.11.25-22.27.19:071][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Timer.SKEL_BP_Timer_C:Popup' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Timer.PackageMetaData'
+[2018.11.25-22.27.19:071][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Timer.SKEL_BP_Timer_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Timer.PackageMetaData'
+[2018.11.25-22.27.19:071][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Timer.BP_Timer_C:PopupText' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Timer.PackageMetaData'
+[2018.11.25-22.27.19:071][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/BP_Timer.BP_Timer_C:Popup' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Timer.PackageMetaData'
+[2018.11.25-22.27.19:078][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/Hud1.Hud1_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Hud1.PackageMetaData'
+[2018.11.25-22.27.19:078][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/Hud1.Hud1:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Hud1.PackageMetaData'
+[2018.11.25-22.27.19:078][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/Hud1.Hud1:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Hud1.PackageMetaData'
+[2018.11.25-22.27.19:078][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/Hud1.Hud1:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Hud1.PackageMetaData'
+[2018.11.25-22.27.19:078][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/Hud1.Hud1:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Hud1.PackageMetaData'
+[2018.11.25-22.27.19:078][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/Hud1.SKEL_Hud1_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Hud1.PackageMetaData'
+[2018.11.25-22.27.19:078][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/Hud1.SKEL_Hud1_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Hud1.PackageMetaData'
+[2018.11.25-22.27.19:078][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/Hud1.SKEL_Hud1_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Hud1.PackageMetaData'
+[2018.11.25-22.27.19:078][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/Hud1.SKEL_Hud1_C:DefaultSceneRoot' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Hud1.PackageMetaData'
+[2018.11.25-22.27.19:078][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/Hud1.SKEL_Hud1_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Hud1.PackageMetaData'
+[2018.11.25-22.27.19:078][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/Hud1.SKEL_Hud1_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Hud1.PackageMetaData'
+[2018.11.25-22.27.19:078][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/Hud1.Hud1_C:DefaultSceneRoot' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Hud1.PackageMetaData'
+[2018.11.25-22.27.19:078][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/Hud1.Hud1_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Hud1.PackageMetaData'
+[2018.11.25-22.27.19:078][380]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/UIBlueprints/Hud1.Hud1_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Hud1.PackageMetaData'
+[2018.11.25-22.27.19:116][380]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/BP_MainMenu605BC75147C1F4A32B0B449E137EDB7B.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/UIBlueprints/BP_MainMenu.uasset'
+[2018.11.25-22.27.19:133][380]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/BP_Prompt48E218FD4D8D1083044E55A18CA4A425.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/UIBlueprints/BP_Prompt.uasset'
+[2018.11.25-22.27.19:155][380]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/ScoreTable3400D8ED4FBDC970794318AF1A945B61.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/UIBlueprints/ScoreTable.uasset'
+[2018.11.25-22.27.19:179][380]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/BP_TimerA95720C74DF998C0FD92AB9BFEDB4A04.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/UIBlueprints/BP_Timer.uasset'
+[2018.11.25-22.27.19:203][380]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/Hud1FE23F261434466DD51FE0D9D11D6F7CA.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/UIBlueprints/Hud1.uasset'
+[2018.11.25-22.27.19:628][380]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/ThirdPersonCharacterCA23205B43BD7C9F9CD3889716D1A6E1.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.11.25-22.27.19:666][380]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/BP_CopyPitBAFD2B99423828AB79A4C88908CF3D45.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/TL_BluePrints/BP_CopyPit.uasset'
+[2018.11.25-22.27.19:763][380]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/BP_NextLevel892B18D44F167E768BCD0D94E6825601.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/LevelObjects/BP_NextLevel.uasset'
+[2018.11.25-22.27.19:789][380]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/ThirdPersonGameMode1B28FF60494F2E66402EB5B929C2717B.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.11.25-22.27.35:376][247]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.25-22.27.35:396][247]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.25-22.27.35:440][247]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.11.25-22.27.35:549][247]LogPlayLevel: [PlayLevel] Compiling BP_NextLevel before play...
+[2018.11.25-22.27.35:628][247]LogPlayLevel: [PlayLevel] Compiling BP_CopyPit before play...
+[2018.11.25-22.27.35:655][247]LogPlayLevel: PlayLevel: Blueprint regeneration took 259 ms (3 blueprints)
+[2018.11.25-22.27.35:655][247]PIE: New page: PIE session: Menu (26 Nov 2018 8:27:35 pm)
+[2018.11.25-22.27.35:656][247]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu
+[2018.11.25-22.27.35:656][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000439s)
+[2018.11.25-22.27.35:657][247]LogAIModule: Creating AISystem for world Menu
+[2018.11.25-22.27.35:657][247]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2018.11.25-22.27.35:657][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menu.Menu to /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu.Menu (0.001105s)
+[2018.11.25-22.27.35:682][247]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.25-22.27.35:693][247]LogInit: FAudioDevice initialized.
+[2018.11.25-22.27.35:724][247]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-22.27.35:725][247]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2018.11.26-09.27.35
+[2018.11.25-22.27.35:725][247]LogWorld: Bringing up level for play took: 0.000256
+[2018.11.25-22.27.35:739][247]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu 1.1
+[2018.11.25-22.27.36:623][346]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-22.27.36:623][346]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-22.27.36:715][346]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-22.27.36:715][346]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-22.27.36:727][346]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-09.27.36
+[2018.11.25-22.27.36:727][346]LogWorld: Bringing up level for play took: 0.011264
+[2018.11.25-22.27.36:729][346]LogLoad: Took 0.105229 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Level1SN)
+[2018.11.25-22.27.40:113][673]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-22.27.40:114][673]LogBlueprintUserMessages: [BP_Coin6] Got Coin
+[2018.11.25-22.27.41:089][782]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.11.25-22.27.41:089][782]LogBlueprintUserMessages: [BP_Coin4] Got Coin
+[2018.11.25-22.27.43:189][ 34]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2018.11.25-22.27.43:189][ 34]LogBlueprintUserMessages: [BP_Coin3] Got Coin
+[2018.11.25-22.27.44:163][151]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.11.25-22.27.44:163][151]LogBlueprintUserMessages: [BP_Coin5] Got Coin
+[2018.11.25-22.27.45:122][266]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 50
+[2018.11.25-22.27.45:122][266]LogBlueprintUserMessages: [BP_Coin2] Got Coin
+[2018.11.25-22.27.45:122][266]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 60
+[2018.11.25-22.27.45:122][266]LogBlueprintUserMessages: [BP_Coin_2] Got Coin
+[2018.11.25-22.27.48:462][667]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 70
+[2018.11.25-22.27.48:462][667]LogBlueprintUserMessages: [BP_Coin9] Got Coin
+[2018.11.25-22.27.48:605][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-22.27.48:640][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.25-22.27.48:661][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-22.27.48:706][686]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.11.25-22.27.51:172][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.27.52:648][140]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-22.27.52:659][140]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Level1SN.Level1SN
+[2018.11.25-22.27.52:680][140]Cmd: MAP LOAD FILE="../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Maps/Level1SN.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.25-22.27.52:680][140]LightingResults: New page: Lighting Build
+[2018.11.25-22.27.52:680][140]LoadErrors: New page: Loading map: Level1SN.umap
+[2018.11.25-22.27.52:680][140]MapCheck: New page: Map Check
+[2018.11.25-22.27.52:681][140]LightingResults: New page: Lighting Build
+[2018.11.25-22.27.52:774][140]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.25-22.27.52:831][140]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.25-22.27.52:894][140]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.488ms to complete.
+[2018.11.25-22.27.52:895][140]LogFileHelpers: Loading map 'Level1SN' took 0.216
+[2018.11.25-22.27.57:185][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.11.25-22.28.00:015][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.28.01:532][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2018.11.25-22.28.02:214][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.11.25-22.28.04:176][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.28.07:673][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2018.11.25-22.28.08:334][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.11.25-22.28.11:181][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.28.15:735][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2018.11.25-22.28.16:439][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.11.25-22.28.17:942][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.28.28:782][290]LogEditorViewport: Clicking on Actor (LMB): BP_Void_C (BP_Void)
+[2018.11.25-22.28.29:372][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.11.25-22.28.31:130][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.28.36:590][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2018.11.25-22.28.48:123][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2018.11.25-22.28.51:482][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2018.11.25-22.28.53:114][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.28.57:074][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2018.11.25-22.29.14:359][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.11.25-22.29.16:163][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2018.11.25-22.29.17:766][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.29.19:214][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2018.11.25-22.29.20:154][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2018.11.25-22.29.20:872][319]Cmd: TRANSACTION UNDO
+[2018.11.25-22.29.20:873][319]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.25-22.29.22:378][492]Cmd: TRANSACTION UNDO
+[2018.11.25-22.29.22:378][492]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.25-22.29.22:930][552]Cmd: TRANSACTION UNDO
+[2018.11.25-22.29.22:930][552]LogEditorTransaction: Undo Set Scale
+[2018.11.25-22.29.24:201][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.29.27:676][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.29.31:002][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2018.11.25-22.29.32:207][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.11.25-22.29.34:493][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.11.25-22.29.35:905][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2018.11.25-22.29.44:826][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2018.11.25-22.29.46:342][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.29.59:676][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2018.11.25-22.30.01:467][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.30.21:459][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2018.11.25-22.30.22:810][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.30.31:649][614]LogEditorViewport: Clicking on Actor (LMB): BP_Void_C (BP_Void)
+[2018.11.25-22.30.36:964][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2018.11.25-22.30.38:911][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.30.46:101][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.31.00:745][956]LogEditorViewport: Clicking on Actor (LMB): BP_Void_C (BP_Void)
+[2018.11.25-22.31.08:816][853]Cmd: TRANSACTION UNDO
+[2018.11.25-22.31.08:816][853]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.25-22.31.09:365][875]Cmd: TRANSACTION UNDO
+[2018.11.25-22.31.09:365][875]LogEditorTransaction: Undo Set Location
+[2018.11.25-22.31.11:098][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.31.14:122][433]LogEditorViewport: Clicking on Actor (LMB): BP_Void_C (BP_Void)
+[2018.11.25-22.31.15:141][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.11.25-22.31.16:310][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.31.23:123][491]LogEditorViewport: Clicking on Actor (LMB): BP_Void_C (BP_Void)
+[2018.11.25-22.31.31:123][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2018.11.25-22.31.32:802][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.31.39:597][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2018.11.25-22.31.41:571][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.31.46:739][194]LogEditorViewport: Clicking on Actor (LMB): BP_Void_C (BP_Void)
+[2018.11.25-22.31.56:564][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.31.56:655][324]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.25-22.31.56:677][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.25-22.31.56:677][324]PIE: New page: PIE session: Level1SN (26 Nov 2018 8:31:56 pm)
+[2018.11.25-22.31.56:677][324]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-22.31.56:682][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004953s)
+[2018.11.25-22.31.56:683][324]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-22.31.56:683][324]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2018.11.25-22.31.56:683][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005755s)
+[2018.11.25-22.31.56:708][324]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.25-22.31.56:718][324]LogInit: FAudioDevice initialized.
+[2018.11.25-22.31.56:748][324]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-22.31.56:751][324]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-09.31.56
+[2018.11.25-22.31.56:751][324]LogWorld: Bringing up level for play took: 0.002428
+[2018.11.25-22.31.56:765][324]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN 0.229
+[2018.11.25-22.31.57:702][417]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-22.31.57:711][417]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-22.31.57:733][417]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-22.31.57:738][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004594s)
+[2018.11.25-22.31.57:738][417]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-22.31.57:738][417]LogPlayLevel: PIE: World Init took: (0.000484s)
+[2018.11.25-22.31.57:738][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005247s)
+[2018.11.25-22.31.57:738][417]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-22.31.57:742][417]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-09.31.57
+[2018.11.25-22.31.57:742][417]LogWorld: Bringing up level for play took: 0.002784
+[2018.11.25-22.31.57:744][417]LogLoad: Took 0.033515 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN)
+[2018.11.25-22.32.01:361][784]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-22.32.01:361][784]LogBlueprintUserMessages: [BP_Coin9] Got Coin
+[2018.11.25-22.32.20:733][107]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.11.25-22.32.20:733][107]LogBlueprintUserMessages: [BP_Coin8] Got Coin
+[2018.11.25-22.32.28:894][ 65]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2018.11.25-22.32.28:894][ 65]LogBlueprintUserMessages: [BP_Coin10] Got Coin
+[2018.11.25-22.32.31:351][359]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.11.25-22.32.31:351][359]LogBlueprintUserMessages: [BP_Coin7] Got Coin
+[2018.11.25-22.32.37:611][109]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 50
+[2018.11.25-22.32.37:611][109]LogBlueprintUserMessages: [BP_Coin_2] Got Coin
+[2018.11.25-22.32.37:611][109]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 60
+[2018.11.25-22.32.37:612][109]LogBlueprintUserMessages: [BP_Coin2] Got Coin
+[2018.11.25-22.32.38:596][227]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 70
+[2018.11.25-22.32.38:596][227]LogBlueprintUserMessages: [BP_Coin5] Got Coin
+[2018.11.25-22.32.39:271][308]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 80
+[2018.11.25-22.32.39:271][308]LogBlueprintUserMessages: [BP_Coin4] Got Coin
+[2018.11.25-22.32.39:580][345]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 90
+[2018.11.25-22.32.39:580][345]LogBlueprintUserMessages: [BP_Coin3] Got Coin
+[2018.11.25-22.32.42:772][728]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 100
+[2018.11.25-22.32.42:772][728]LogBlueprintUserMessages: [BP_Coin6] Got Coin
+[2018.11.25-22.32.44:018][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-22.32.49:016][477]LogNet: Browse: /Game/ThirdPersonBP/Maps/Thomas_List_Levels/New_Level_2
+[2018.11.25-22.32.49:016][477]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Thomas_List_Levels/New_Level_2
+[2018.11.25-22.32.49:089][477]LogAIModule: Creating AISystem for world New_Level_2
+[2018.11.25-22.32.49:089][477]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-22.32.49:105][477]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Thomas_List_Levels/UEDPIE_0_New_Level_2.New_Level_2 up for play (max tick rate 0) at 2018.11.26-09.32.49
+[2018.11.25-22.32.49:105][477]LogWorld: Bringing up level for play took: 0.015055
+[2018.11.25-22.32.49:107][477]LogLoad: Took 0.091222 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Thomas_List_Levels/New_Level_2)
+[2018.11.25-22.32.51:747][723]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-22.32.51:747][723]LogBlueprintUserMessages: [BP_Coin8] Got Coin
+[2018.11.25-22.32.53:517][887]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.11.25-22.32.53:517][887]LogBlueprintUserMessages: [BP_Coin11] Got Coin
+[2018.11.25-22.32.54:317][953]LogBlueprintUserMessages: [BP_HighJump_3] High Jump Start
+[2018.11.25-22.32.56:217][101]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2018.11.25-22.32.56:217][101]LogBlueprintUserMessages: [BP_Coin6] Got Coin
+[2018.11.25-22.32.56:499][126]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.11.25-22.32.56:499][126]LogBlueprintUserMessages: [BP_Coin5] Got Coin
+[2018.11.25-22.32.58:157][272]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 50
+[2018.11.25-22.32.58:157][272]LogBlueprintUserMessages: [BP_Coin17] Got Coin
+[2018.11.25-22.33.03:760][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-22.33.03:792][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.25-22.33.03:814][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-22.33.03:882][813]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.11.25-22.33.18:512][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.33.18:747][403]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/Level1SN3A8F6348406DDE771D2DC898D4E38412.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Maps/Level1SN.umap'
+[2018.11.25-22.33.38:318][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.33.38:426][712]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.25-22.33.38:446][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.25-22.33.38:446][712]PIE: New page: PIE session: Level1SN (26 Nov 2018 8:33:38 pm)
+[2018.11.25-22.33.38:450][712]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-22.33.38:455][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005146s)
+[2018.11.25-22.33.38:455][712]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-22.33.38:455][712]LogPlayLevel: PIE: World Init took: (0.000575s)
+[2018.11.25-22.33.38:456][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005935s)
+[2018.11.25-22.33.38:479][712]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.25-22.33.38:488][712]LogInit: FAudioDevice initialized.
+[2018.11.25-22.33.38:518][712]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-22.33.38:522][712]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-09.33.38
+[2018.11.25-22.33.38:523][712]LogWorld: Bringing up level for play took: 0.002818
+[2018.11.25-22.33.38:536][712]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN 0.008
+[2018.11.25-22.33.39:604][822]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-22.33.39:611][822]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-22.33.39:633][822]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-22.33.39:638][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004609s)
+[2018.11.25-22.33.39:638][822]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-22.33.39:638][822]LogPlayLevel: PIE: World Init took: (0.000481s)
+[2018.11.25-22.33.39:639][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005279s)
+[2018.11.25-22.33.39:639][822]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-22.33.39:642][822]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-09.33.39
+[2018.11.25-22.33.39:643][822]LogWorld: Bringing up level for play took: 0.002809
+[2018.11.25-22.33.39:645][822]LogLoad: Took 0.033799 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN)
+[2018.11.25-22.33.44:792][376]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-22.33.44:792][376]LogBlueprintUserMessages: [BP_Coin9] Got Coin
+[2018.11.25-22.33.54:357][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-22.33.54:386][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.25-22.33.54:408][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-22.33.54:481][523]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.11.25-22.34.14:764][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.34.40:663][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.35.55:848][177]LogEditorViewport: Clicking on Actor (LMB): BP_Void_C (BP_Void)
+[2018.11.25-22.36.07:738][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.36.19:108][917]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.11.25-22.36.19:513][917]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.11.25-22.36.20:220][917]LogSlate: Took 0.004179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.25-22.36.20:485][918]LogSlate: Took 0.003907 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.25-22.43.34:498][393]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level1SN' took 0.055
+[2018.11.25-22.43.34:500][393]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.11.25-22.43.34:523][393]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.11.25-22.43.34:523][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.11.25-22.43.34:629][393]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/ThirdPersonCharacter_Auto16C019C2046BB15978242F3BC6BEAA750.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2018.11.25-22.43.34:630][393]LogFileHelpers: Auto-saving content packages took 0.130
+[2018.11.25-22.49.46:620][818]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/ThirdPersonCharacterF46DEA5F4047071E539868B494C7B91F.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.11.25-22.49.46:884][838]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/ThirdPersonCharacterED9ADDFB4B74EC8339D8188ADB4A3E2E.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.11.25-22.49.47:203][865]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/ThirdPersonCharacter7DCE8DF64907A18F2FF941BA9F42429A.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.11.25-22.50.04:202][895]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.25-22.50.04:268][895]LogBlueprint: Error: [Compiler ThirdPersonCharacter] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2018.11.25-22.50.04:424][895]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [2315.87] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 222 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.11.25-22.50.13:086][910]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.25-22.50.13:437][910]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/ThirdPersonCharacterAFB2531E438F2993F1CCE7B7F30B7C5E.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.11.25-22.50.16:023][196]LogTemp: Repeating last play command: Standalone Game
+[2018.11.25-22.52.04:431][804]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2018.11.25-22.52.04:649][804]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.11.25-22.52.06:769][ 47]LogSlate: Window 'CompilerResults' being destroyed
+[2018.11.25-22.52.06:773][ 47]LogSlate: Window 'CompilerResults' being destroyed
+[2018.11.25-22.52.12:113][686]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BP_GameInstance.BP_GameInstance
+[2018.11.25-22.52.33:787][161]LogEditorTransaction: Undo Paste clipboard contents
+[2018.11.25-22.53.34:584][386]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level1SN' took 0.028
+[2018.11.25-22.53.34:586][386]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.11.25-22.53.34:597][386]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.11.25-22.53.34:597][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.11.25-22.53.34:677][386]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/ThirdPersonCharacter_Auto20F927AD144BC130F51F88C943F1680F1.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2018.11.25-22.53.34:679][386]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_GameInstance] ([1] browsable assets)...
+[2018.11.25-22.53.34:679][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_GameInstance]
+[2018.11.25-22.53.34:705][386]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/BP_GameInstance_Auto258769DA54C04CCC00BFF1587777D6D7E.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_GameInstance_Auto2.uasset'
+[2018.11.25-22.53.34:706][386]LogFileHelpers: Auto-saving content packages took 0.121
+[2018.11.25-22.56.07:463][673]LogEditorViewport: Clicking on Actor (LMB): BP_FallingPlatform_C (BP_FallingPlatform9)
+[2018.11.25-22.56.08:349][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.11.25-22.56.09:917][952]LogEditorViewport: Clicking on Actor (LMB): BP_SpinningPlatform_C (SpinningPlatform)
+[2018.11.25-22.56.37:476][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-22.58.35:019][ 84]LogEditorViewport: Clicking on Actor (LMB): Bp_Key_C (Bp_Key0)
+[2018.11.25-22.58.37:690][392]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.25-23.01.16:804][413]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.11.25-23.01.33:239][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.01.51:078][357]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/BP_MovingCoin4C9699F04AEB89E60CF6549DA03416BE.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/LevelObjects/BP_MovingCoin.uasset'
+[2018.11.25-23.01.51:083][357]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/LevelObjects/BP_MovingCoin.SKEL_BP_MovingCoin_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/LevelObjects/BP_Coin.PackageMetaData'
+[2018.11.25-23.01.51:083][357]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/LevelObjects/BP_MovingCoin.BP_MovingCoin_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/LevelObjects/BP_Coin.PackageMetaData'
+[2018.11.25-23.01.51:138][357]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/BP_MovingCoin6E017E4446767774246D4F96AA926FD2.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/LevelObjects/BP_MovingCoin.uasset'
+[2018.11.25-23.01.52:324][474]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/LevelObjects/BP_MovingCoin.BP_MovingCoin
+[2018.11.25-23.03.42:282][548]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/Level1SN_Auto31ACDCD1E43EE88FF18EA1D8B3F9FB077.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1SN_Auto3.umap'
+[2018.11.25-23.03.42:288][548]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level1SN' took 0.132
+[2018.11.25-23.03.42:288][548]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.132
+[2018.11.25-23.03.42:291][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.11.25-23.03.42:316][548]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.11.25-23.03.42:316][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.11.25-23.03.42:410][548]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/ThirdPersonCharacter_Auto3E02637FA40D032502C6BA79BE6C6D0E4.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2018.11.25-23.03.42:412][548]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_GameInstance] ([1] browsable assets)...
+[2018.11.25-23.03.42:412][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_GameInstance]
+[2018.11.25-23.03.42:439][548]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/BP_GameInstance_Auto38D7FCCE444F26842D9BBE88D00E22811.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_GameInstance_Auto3.uasset'
+[2018.11.25-23.03.42:440][548]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/LevelObjects/BP_MovingCoin] ([1] browsable assets)...
+[2018.11.25-23.03.42:440][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/LevelObjects/BP_MovingCoin]
+[2018.11.25-23.03.42:470][548]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/BP_MovingCoin_Auto3CC2B3A284674CD5B91692A830461F194.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/LevelObjects/BP_MovingCoin_Auto3.uasset'
+[2018.11.25-23.03.42:471][548]LogFileHelpers: Auto-saving content packages took 0.182
+[2018.11.25-23.05.12:193][655]LogSlate: Window 'BP_MovingCoin*' being destroyed
+[2018.11.25-23.17.59:337][293]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/BP_MovingCoin2157933E4E99686884005682288BD038.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/LevelObjects/BP_MovingCoin.uasset'
+[2018.11.25-23.17.59:586][317]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/BP_MovingCoin5A7BB2984ACFCFECA53BD9B0C1FD097C.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/LevelObjects/BP_MovingCoin.uasset'
+[2018.11.25-23.17.59:894][346]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/BP_MovingCoinF364B3E0403C51DEEF35A28E52852452.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/LevelObjects/BP_MovingCoin.uasset'
+[2018.11.25-23.18.00:145][371]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/BP_MovingCoinEA1EB9554696675E383C90A5A95B11D5.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/LevelObjects/BP_MovingCoin.uasset'
+[2018.11.25-23.18.00:449][402]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/BP_MovingCoin2A5BCF094F789EAFACC682908ECE207A.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/LevelObjects/BP_MovingCoin.uasset'
+[2018.11.25-23.18.05:555][  7]BlueprintLog: New page: Compile BP_MovingCoin
+[2018.11.25-23.18.11:465][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.18.19:532][590]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.11.25-23.18.29:309][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (-X wall)
+[2018.11.25-23.18.30:127][839]LogEditorViewport: Clicking on Actor (LMB): BP_MovingCoin_C (BP_MovingCoin)
+[2018.11.25-23.18.31:708][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.18.38:170][782]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.11.25-23.18.40:021][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.18.40:121][ 10]LogTemp: Repeating last play command: Standalone Game
+[2018.11.25-23.18.41:594][ 10]LogSlate: Window 'Save Content' being destroyed
+[2018.11.25-23.18.41:635][ 10]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/BP_GameInstanceC4FCC3B0440BB79FBA311CB001015661.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/BP_GameInstance.uasset'
+[2018.11.25-23.18.41:720][ 10]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/ThirdPersonCharacterD678882549AD1D4D0408B6AA87802F0F.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.11.25-23.18.41:906][ 10]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/Level1SN092C28124303FBE727E52BAE5C2A5995.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Maps/Level1SN.umap'
+[2018.11.25-23.18.41:950][ 10]LogFileHelpers: Saving map 'Level1SN' took 0.222
+[2018.11.25-23.19.47:764][532]LogEditorViewport: Clicking on Actor (LMB): BP_MovingCoin_C (BP_MovingCoin)
+[2018.11.25-23.19.49:096][683]Cmd: DELETE
+[2018.11.25-23.19.49:096][683]Cmd: ACTOR DELETE
+[2018.11.25-23.19.49:107][683]LogEditorActor: Deleted Actor: BP_MovingCoin_C
+[2018.11.25-23.19.49:166][683]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2018.11.25-23.20.01:866][125]LogEditorViewport: Clicking on Actor (LMB): BP_Coin_C (BP_Coin6)
+[2018.11.25-23.20.03:695][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.20.06:824][646]Cmd: TRANSACTION UNDO
+[2018.11.25-23.20.06:824][646]LogEditorTransaction: Undo Create Actors
+[2018.11.25-23.20.23:965][639]Cmd: DELETE
+[2018.11.25-23.20.23:966][639]Cmd: ACTOR DELETE
+[2018.11.25-23.20.23:974][639]LogEditorActor: Deleted Actor: BP_Coin_C
+[2018.11.25-23.20.24:019][639]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2018.11.25-23.20.25:048][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.20.27:127][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.20.51:933][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (-Y Wall)
+[2018.11.25-23.20.52:643][970]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.25-23.20.53:650][ 85]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.25-23.20.53:678][ 85]LogPlayLevel: [PlayLevel] Compiling BP_GameInstance before play...
+[2018.11.25-23.20.53:731][ 85]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.11.25-23.20.53:961][ 85]LogPlayLevel: PlayLevel: Blueprint regeneration took 310 ms (2 blueprints)
+[2018.11.25-23.20.53:961][ 85]PIE: New page: PIE session: Level1SN (26 Nov 2018 9:20:53 pm)
+[2018.11.25-23.20.53:963][ 85]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.20.53:968][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004900s)
+[2018.11.25-23.20.53:969][ 85]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.20.53:969][ 85]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2018.11.25-23.20.53:969][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005740s)
+[2018.11.25-23.20.54:002][ 85]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.25-23.20.54:011][ 85]LogInit: FAudioDevice initialized.
+[2018.11.25-23.20.54:012][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.25-23.20.54:043][ 85]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.20.54:046][ 85]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.20.54
+[2018.11.25-23.20.54:046][ 85]LogWorld: Bringing up level for play took: 0.002252
+[2018.11.25-23.20.54:060][ 85]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN -0.434
+[2018.11.25-23.20.55:544][225]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.20.55:550][225]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.20.55:582][225]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.20.55:586][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004475s)
+[2018.11.25-23.20.55:587][225]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.20.55:587][225]LogPlayLevel: PIE: World Init took: (0.000502s)
+[2018.11.25-23.20.55:587][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005150s)
+[2018.11.25-23.20.55:587][225]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.20.55:591][225]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.20.55
+[2018.11.25-23.20.55:591][225]LogWorld: Bringing up level for play took: 0.002745
+[2018.11.25-23.20.55:593][225]LogLoad: Took 0.043194 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN)
+[2018.11.25-23.20.57:599][422]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-23.20.57:599][422]LogBlueprintUserMessages: [BP_Coin2] Got Coin
+[2018.11.25-23.20.57:599][422]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.11.25-23.20.57:600][422]LogBlueprintUserMessages: [BP_Coin_2] Got Coin
+[2018.11.25-23.21.20:585][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.21.20:626][ 37]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.25-23.21.20:655][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.21.20:699][ 38]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.11.25-23.21.25:557][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.21.54:449][852]BlueprintLog: New page: Compile BP_MovingCoin
+[2018.11.25-23.21.54:684][852]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/BP_MovingCoin80A64E424816B4540BA5F399F83CB427.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/LevelObjects/BP_MovingCoin.uasset'
+[2018.11.25-23.21.58:120][247]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.25-23.21.58:149][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.25-23.21.58:149][247]PIE: New page: PIE session: Level1SN (26 Nov 2018 9:21:58 pm)
+[2018.11.25-23.21.58:149][247]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.21.58:154][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005047s)
+[2018.11.25-23.21.58:155][247]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.21.58:155][247]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2018.11.25-23.21.58:155][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005702s)
+[2018.11.25-23.21.58:183][247]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.25-23.21.58:192][247]LogInit: FAudioDevice initialized.
+[2018.11.25-23.21.58:223][247]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.21.58:226][247]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.21.58
+[2018.11.25-23.21.58:226][247]LogWorld: Bringing up level for play took: 0.002431
+[2018.11.25-23.21.58:240][247]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN -0.252
+[2018.11.25-23.21.59:419][368]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.21.59:429][368]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.21.59:459][368]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.21.59:463][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004598s)
+[2018.11.25-23.21.59:464][368]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.21.59:464][368]LogPlayLevel: PIE: World Init took: (0.000519s)
+[2018.11.25-23.21.59:464][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005308s)
+[2018.11.25-23.21.59:464][368]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.21.59:467][368]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.21.59
+[2018.11.25-23.21.59:468][368]LogWorld: Bringing up level for play took: 0.002481
+[2018.11.25-23.21.59:469][368]LogLoad: Took 0.040747 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN)
+[2018.11.25-23.22.28:946][118]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-23.22.28:946][118]LogBlueprintUserMessages: [BP_Coin_2] Got Coin
+[2018.11.25-23.22.28:946][118]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.11.25-23.22.28:946][118]LogBlueprintUserMessages: [BP_Coin2] Got Coin
+[2018.11.25-23.22.29:453][172]LogBlueprintUserMessages: [BP_MovingCoin_8] Got Coin
+[2018.11.25-23.22.29:946][230]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2018.11.25-23.22.29:946][230]LogBlueprintUserMessages: [BP_Coin5] Got Coin
+[2018.11.25-23.22.30:946][350]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.11.25-23.22.30:946][350]LogBlueprintUserMessages: [BP_Coin3] Got Coin
+[2018.11.25-23.22.32:904][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.22.32:940][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.25-23.22.32:970][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.22.33:011][583]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.11.25-23.22.43:927][816]LogEditorViewport: Clicking on Actor (LMB): BP_Coin_C (BP_Coin4)
+[2018.11.25-23.22.47:210][195]Cmd: DELETE
+[2018.11.25-23.22.47:210][195]Cmd: ACTOR DELETE
+[2018.11.25-23.22.47:221][195]LogEditorActor: Deleted Actor: BP_Coin_C
+[2018.11.25-23.22.47:285][195]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2018.11.25-23.22.48:388][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.22.50:914][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.23.12:016][  8]LogEditorViewport: Clicking on Actor (LMB): BP_MovingCoin_C (BP_MovingCoin)
+[2018.11.25-23.23.13:842][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.23.16:926][553]LogEditorViewport: Clicking on Actor (LMB): BP_MovingCoin_C (BP_MovingCoin2)
+[2018.11.25-23.23.18:172][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.23.29:930][ 47]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.25-23.23.29:956][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.25-23.23.29:956][ 47]PIE: New page: PIE session: Level1SN (26 Nov 2018 9:23:29 pm)
+[2018.11.25-23.23.29:956][ 47]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.23.29:961][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004825s)
+[2018.11.25-23.23.29:961][ 47]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.23.29:962][ 47]LogPlayLevel: PIE: World Init took: (0.000601s)
+[2018.11.25-23.23.29:962][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005600s)
+[2018.11.25-23.23.29:992][ 47]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.25-23.23.30:001][ 47]LogInit: FAudioDevice initialized.
+[2018.11.25-23.23.30:031][ 47]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.23.30:035][ 47]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.23.30
+[2018.11.25-23.23.30:035][ 47]LogWorld: Bringing up level for play took: 0.002366
+[2018.11.25-23.23.30:048][ 47]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN -0.442
+[2018.11.25-23.23.30:836][124]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.23.30:844][124]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.23.30:870][124]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.23.30:875][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004752s)
+[2018.11.25-23.23.30:876][124]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.23.30:876][124]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2018.11.25-23.23.30:876][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005603s)
+[2018.11.25-23.23.30:876][124]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.23.30:880][124]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.23.30
+[2018.11.25-23.23.30:880][124]LogWorld: Bringing up level for play took: 0.002534
+[2018.11.25-23.23.30:882][124]LogLoad: Took 0.037857 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN)
+[2018.11.25-23.23.32:931][331]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-23.23.32:931][331]LogBlueprintUserMessages: [BP_Coin_2] Got Coin
+[2018.11.25-23.23.32:931][331]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.11.25-23.23.32:931][331]LogBlueprintUserMessages: [BP_Coin2] Got Coin
+[2018.11.25-23.23.33:440][390]LogBlueprintUserMessages: [BP_MovingCoin_8] Got Coin
+[2018.11.25-23.23.33:956][452]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2018.11.25-23.23.33:956][452]LogBlueprintUserMessages: [BP_Coin5] Got Coin
+[2018.11.25-23.23.34:431][509]LogBlueprintUserMessages: [BP_MovingCoin2_11] Got Coin
+[2018.11.25-23.23.34:931][569]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.11.25-23.23.34:932][569]LogBlueprintUserMessages: [BP_Coin3] Got Coin
+[2018.11.25-23.23.39:474][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.23.39:510][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.25-23.23.39:539][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.23.39:577][115]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.11.25-23.23.42:656][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.23.42:760][429]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.25-23.23.42:787][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.25-23.23.42:787][429]PIE: New page: PIE session: Level1SN (26 Nov 2018 9:23:42 pm)
+[2018.11.25-23.23.42:787][429]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.23.42:792][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004659s)
+[2018.11.25-23.23.42:792][429]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.23.42:793][429]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2018.11.25-23.23.42:793][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005373s)
+[2018.11.25-23.23.42:823][429]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.25-23.23.42:832][429]LogInit: FAudioDevice initialized.
+[2018.11.25-23.23.42:861][429]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.23.42:864][429]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.23.42
+[2018.11.25-23.23.42:864][429]LogWorld: Bringing up level for play took: 0.002301
+[2018.11.25-23.23.42:878][429]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN 0.388
+[2018.11.25-23.23.43:913][536]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.23.43:920][536]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.23.43:950][536]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.23.43:955][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004969s)
+[2018.11.25-23.23.43:956][536]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.23.43:956][536]LogPlayLevel: PIE: World Init took: (0.000517s)
+[2018.11.25-23.23.43:956][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005668s)
+[2018.11.25-23.23.43:956][536]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.23.43:960][536]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.23.43
+[2018.11.25-23.23.43:960][536]LogWorld: Bringing up level for play took: 0.002610
+[2018.11.25-23.23.43:962][536]LogLoad: Took 0.042251 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN)
+[2018.11.25-23.23.49:587][106]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-23.23.49:587][106]LogBlueprintUserMessages: [BP_Coin_2] Got Coin
+[2018.11.25-23.23.49:587][106]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.11.25-23.23.49:587][106]LogBlueprintUserMessages: [BP_Coin2] Got Coin
+[2018.11.25-23.23.50:600][223]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2018.11.25-23.23.50:600][223]LogBlueprintUserMessages: [BP_Coin5] Got Coin
+[2018.11.25-23.23.51:083][281]LogBlueprintUserMessages: [BP_MovingCoin2_11] Got Coin
+[2018.11.25-23.23.51:616][345]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.11.25-23.23.51:617][345]LogBlueprintUserMessages: [BP_Coin3] Got Coin
+[2018.11.25-23.23.55:692][834]LogBlueprintUserMessages: [BP_MovingCoin_8] Got Coin
+[2018.11.25-23.24.02:861][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.24.02:894][694]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.25-23.24.02:922][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.24.02:964][695]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.11.25-23.24.03:957][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.24.04:057][823]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.25-23.24.04:083][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.25-23.24.04:083][823]PIE: New page: PIE session: Level1SN (26 Nov 2018 9:24:04 pm)
+[2018.11.25-23.24.04:083][823]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.24.04:088][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004893s)
+[2018.11.25-23.24.04:089][823]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.24.04:089][823]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2018.11.25-23.24.04:089][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005625s)
+[2018.11.25-23.24.04:121][823]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.25-23.24.04:130][823]LogInit: FAudioDevice initialized.
+[2018.11.25-23.24.04:158][823]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.24.04:161][823]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.24.04
+[2018.11.25-23.24.04:161][823]LogWorld: Bringing up level for play took: 0.002257
+[2018.11.25-23.24.04:175][823]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN -0.315
+[2018.11.25-23.24.05:203][930]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.24.05:210][930]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.24.05:240][930]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.24.05:244][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004456s)
+[2018.11.25-23.24.05:245][930]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.24.05:245][930]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2018.11.25-23.24.05:245][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005142s)
+[2018.11.25-23.24.05:245][930]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.24.05:249][930]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.24.05
+[2018.11.25-23.24.05:249][930]LogWorld: Bringing up level for play took: 0.002596
+[2018.11.25-23.24.05:251][930]LogLoad: Took 0.041123 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN)
+[2018.11.25-23.24.08:068][209]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-23.24.08:069][209]LogBlueprintUserMessages: [BP_Coin_2] Got Coin
+[2018.11.25-23.24.08:069][209]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.11.25-23.24.08:069][209]LogBlueprintUserMessages: [BP_Coin2] Got Coin
+[2018.11.25-23.24.08:594][267]LogBlueprintUserMessages: [BP_MovingCoin_8] Got Coin
+[2018.11.25-23.24.09:046][321]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2018.11.25-23.24.09:046][321]LogBlueprintUserMessages: [BP_Coin5] Got Coin
+[2018.11.25-23.24.10:188][458]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.11.25-23.24.10:188][458]LogBlueprintUserMessages: [BP_Coin3] Got Coin
+[2018.11.25-23.24.13:871][900]LogBlueprintUserMessages: [BP_MovingCoin2_11] Got Coin
+[2018.11.25-23.24.16:372][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.24.16:405][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.25-23.24.16:434][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.24.16:475][201]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.11.25-23.24.17:332][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.24.17:419][309]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.25-23.24.17:447][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.25-23.24.17:447][309]PIE: New page: PIE session: Level1SN (26 Nov 2018 9:24:17 pm)
+[2018.11.25-23.24.17:447][309]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.24.17:452][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004641s)
+[2018.11.25-23.24.17:453][309]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.24.17:453][309]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2018.11.25-23.24.17:453][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005475s)
+[2018.11.25-23.24.17:480][309]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.25-23.24.17:490][309]LogInit: FAudioDevice initialized.
+[2018.11.25-23.24.17:522][309]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.24.17:525][309]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.24.17
+[2018.11.25-23.24.17:525][309]LogWorld: Bringing up level for play took: 0.002317
+[2018.11.25-23.24.17:539][309]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN 1.049
+[2018.11.25-23.24.18:676][426]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.24.18:683][426]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.24.18:713][426]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.24.18:718][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004847s)
+[2018.11.25-23.24.18:718][426]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.24.18:719][426]LogPlayLevel: PIE: World Init took: (0.000568s)
+[2018.11.25-23.24.18:719][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005583s)
+[2018.11.25-23.24.18:719][426]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.24.18:722][426]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.24.18
+[2018.11.25-23.24.18:723][426]LogWorld: Bringing up level for play took: 0.002703
+[2018.11.25-23.24.18:725][426]LogLoad: Took 0.042329 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN)
+[2018.11.25-23.24.21:006][648]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-23.24.21:006][648]LogBlueprintUserMessages: [BP_Coin_2] Got Coin
+[2018.11.25-23.24.21:006][648]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.11.25-23.24.21:006][648]LogBlueprintUserMessages: [BP_Coin2] Got Coin
+[2018.11.25-23.24.22:842][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.24.22:876][856]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.25-23.24.22:905][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.24.22:947][857]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.11.25-23.24.23:885][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.24.23:976][978]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.25-23.24.24:003][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.25-23.24.24:003][978]PIE: New page: PIE session: Level1SN (26 Nov 2018 9:24:24 pm)
+[2018.11.25-23.24.24:003][978]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.24.24:008][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004514s)
+[2018.11.25-23.24.24:008][978]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.24.24:008][978]LogPlayLevel: PIE: World Init took: (0.000503s)
+[2018.11.25-23.24.24:008][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005185s)
+[2018.11.25-23.24.24:039][978]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.25-23.24.24:047][978]LogInit: FAudioDevice initialized.
+[2018.11.25-23.24.24:077][978]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.24.24:081][978]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.24.24
+[2018.11.25-23.24.24:081][978]LogWorld: Bringing up level for play took: 0.002362
+[2018.11.25-23.24.24:095][978]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN -0.395
+[2018.11.25-23.24.24:983][ 69]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.24.24:990][ 69]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.24.25:014][ 69]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.24.25:019][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005030s)
+[2018.11.25-23.24.25:020][ 69]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.24.25:020][ 69]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2018.11.25-23.24.25:020][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005914s)
+[2018.11.25-23.24.25:020][ 69]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.24.25:024][ 69]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.24.25
+[2018.11.25-23.24.25:024][ 69]LogWorld: Bringing up level for play took: 0.002975
+[2018.11.25-23.24.25:026][ 69]LogLoad: Took 0.037339 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN)
+[2018.11.25-23.24.27:394][301]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-23.24.27:394][301]LogBlueprintUserMessages: [BP_Coin_2] Got Coin
+[2018.11.25-23.24.27:394][301]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.11.25-23.24.27:394][301]LogBlueprintUserMessages: [BP_Coin2] Got Coin
+[2018.11.25-23.24.28:072][374]LogBlueprintUserMessages: [BP_MovingCoin_8] Got Coin
+[2018.11.25-23.24.28:767][457]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2018.11.25-23.24.28:767][457]LogBlueprintUserMessages: [BP_Coin5] Got Coin
+[2018.11.25-23.24.32:209][870]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.11.25-23.24.32:209][870]LogBlueprintUserMessages: [BP_Coin3] Got Coin
+[2018.11.25-23.24.37:210][467]LogBlueprintUserMessages: [BP_MovingCoin2_11] Got Coin
+[2018.11.25-23.24.39:971][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.24.40:004][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.25-23.24.40:034][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.24.40:074][800]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.11.25-23.24.42:157][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.24.42:251][ 53]LogRenderer: Reallocating scene render targets to support 2420x1200 Format 10 NumSamples 1 (Frame:12955).
+[2018.11.25-23.25.11:653][533]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.25-23.25.11:682][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.25-23.25.11:682][533]PIE: New page: PIE session: Level1SN (26 Nov 2018 9:25:11 pm)
+[2018.11.25-23.25.11:683][533]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.25.11:688][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004908s)
+[2018.11.25-23.25.11:688][533]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.25.11:688][533]LogPlayLevel: PIE: World Init took: (0.000523s)
+[2018.11.25-23.25.11:688][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005577s)
+[2018.11.25-23.25.11:714][533]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.25-23.25.11:723][533]LogInit: FAudioDevice initialized.
+[2018.11.25-23.25.11:753][533]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.25.11:756][533]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.25.11
+[2018.11.25-23.25.11:756][533]LogWorld: Bringing up level for play took: 0.002663
+[2018.11.25-23.25.11:770][533]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN -0.719
+[2018.11.25-23.25.12:787][630]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.25.12:795][630]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.25.12:826][630]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.25.12:831][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004706s)
+[2018.11.25-23.25.12:831][630]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.25.12:832][630]LogPlayLevel: PIE: World Init took: (0.000523s)
+[2018.11.25-23.25.12:832][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005467s)
+[2018.11.25-23.25.12:832][630]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.25.12:835][630]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.25.12
+[2018.11.25-23.25.12:836][630]LogWorld: Bringing up level for play took: 0.002997
+[2018.11.25-23.25.12:838][630]LogLoad: Took 0.042310 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN)
+[2018.11.25-23.25.15:676][906]LogBlueprintUserMessages: [BP_MovingCoin_8] Got Coin
+[2018.11.25-23.25.19:396][325]LogBlueprintUserMessages: [BP_MovingCoin2_11] Got Coin
+[2018.11.25-23.25.21:398][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.25.21:432][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.25-23.25.21:462][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.25.21:505][555]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.11.25-23.25.27:519][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.25.44:922][155]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/TL_BluePrints/BP_Coin.BP_Coin
+[2018.11.25-23.26.55:313][ 46]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.25-23.26.55:694][ 46]LogSavePackage: Moving '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Saved/ThirdPersonCharacterCA8C74A3406930BA8A7A09BF87A6A10E.tmp' to '../../../../../../Users/Snielsen2/Documents/GitHub/GPG210-Prototypes/PlatformerPrototype/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.11.25-23.26.57:278][197]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.25-23.26.57:301][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.25-23.26.57:301][197]PIE: New page: PIE session: Level1SN (26 Nov 2018 9:26:57 pm)
+[2018.11.25-23.26.57:301][197]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.26.57:306][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004863s)
+[2018.11.25-23.26.57:306][197]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.26.57:306][197]LogPlayLevel: PIE: World Init took: (0.000509s)
+[2018.11.25-23.26.57:307][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005507s)
+[2018.11.25-23.26.57:341][197]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.25-23.26.57:349][197]LogInit: FAudioDevice initialized.
+[2018.11.25-23.26.57:379][197]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.26.57:383][197]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.26.57
+[2018.11.25-23.26.57:383][197]LogWorld: Bringing up level for play took: 0.002478
+[2018.11.25-23.26.57:397][197]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN 0.909
+[2018.11.25-23.26.58:273][283]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.26.58:281][283]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.26.58:310][283]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.26.58:314][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004672s)
+[2018.11.25-23.26.58:315][283]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.26.58:315][283]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2018.11.25-23.26.58:315][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005654s)
+[2018.11.25-23.26.58:315][283]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.26.58:319][283]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.26.58
+[2018.11.25-23.26.58:320][283]LogWorld: Bringing up level for play took: 0.003314
+[2018.11.25-23.26.58:322][283]LogLoad: Took 0.040703 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN)
+[2018.11.25-23.27.00:640][512]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-23.27.00:640][512]LogBlueprintUserMessages: [BP_Coin_2] Got Coin
+[2018.11.25-23.27.00:640][512]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.11.25-23.27.00:640][512]LogBlueprintUserMessages: [BP_Coin2] Got Coin
+[2018.11.25-23.27.01:635][623]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2018.11.25-23.27.01:636][623]LogBlueprintUserMessages: [BP_Coin5] Got Coin
+[2018.11.25-23.27.02:137][683]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.11.25-23.27.02:137][683]LogBlueprintUserMessages: [BP_MovingCoin2_11] Got Coin
+[2018.11.25-23.27.02:745][756]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 50
+[2018.11.25-23.27.02:745][756]LogBlueprintUserMessages: [BP_Coin3] Got Coin
+[2018.11.25-23.27.06:263][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.27.06:296][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.25-23.27.06:328][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.27.06:374][179]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2018.11.25-23.27.07:240][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.27.07:348][286]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.25-23.27.07:377][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.25-23.27.07:377][286]PIE: New page: PIE session: Level1SN (26 Nov 2018 9:27:07 pm)
+[2018.11.25-23.27.07:377][286]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.27.07:382][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004788s)
+[2018.11.25-23.27.07:382][286]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.27.07:383][286]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2018.11.25-23.27.07:383][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005493s)
+[2018.11.25-23.27.07:415][286]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.25-23.27.07:425][286]LogInit: FAudioDevice initialized.
+[2018.11.25-23.27.07:452][286]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.27.07:456][286]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.27.07
+[2018.11.25-23.27.07:457][286]LogWorld: Bringing up level for play took: 0.002613
+[2018.11.25-23.27.07:470][286]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN 0.982
+[2018.11.25-23.27.08:538][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.27.08:643][405]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.27.08:652][405]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.27.08:685][405]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.27.08:690][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004688s)
+[2018.11.25-23.27.08:690][405]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.27.08:690][405]LogPlayLevel: PIE: World Init took: (0.000535s)
+[2018.11.25-23.27.08:691][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005491s)
+[2018.11.25-23.27.08:691][405]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.27.08:694][405]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.27.08
+[2018.11.25-23.27.08:694][405]LogWorld: Bringing up level for play took: 0.002536
+[2018.11.25-23.27.08:697][405]LogLoad: Took 0.044229 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN)
+[2018.11.25-23.27.13:323][853]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-23.27.13:323][853]LogBlueprintUserMessages: [BP_Coin_2] Got Coin
+[2018.11.25-23.27.13:323][853]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.11.25-23.27.13:323][853]LogBlueprintUserMessages: [BP_Coin2] Got Coin
+[2018.11.25-23.27.13:814][910]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2018.11.25-23.27.13:814][910]LogBlueprintUserMessages: [BP_MovingCoin_8] Got Coin
+[2018.11.25-23.27.13:814][910]LogScript: Warning: Attempted to access Box via property Box, but Box is pending kill
+	BP_MovingCoin_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN:PersistentLevel.BP_MovingCoin_8
+	Function /Game/ThirdPersonBP/Blueprints/LevelObjects/BP_MovingCoin.BP_MovingCoin_C:ExecuteUbergraph_BP_MovingCoin:0265
+[2018.11.25-23.27.13:814][910]PIE: Error: Blueprint Runtime Error: "Attempted to access Box via property Box, but Box is pending kill". Blueprint:  BP_MovingCoin Function:  Execute Ubergraph BP Moving Coin Graph:  EventGraph Node:  SetWorldLocation
+[2018.11.25-23.27.14:322][971]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.11.25-23.27.14:322][971]LogBlueprintUserMessages: [BP_Coin5] Got Coin
+[2018.11.25-23.27.15:330][ 92]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 50
+[2018.11.25-23.27.15:330][ 92]LogBlueprintUserMessages: [BP_Coin3] Got Coin
+[2018.11.25-23.27.17:805][389]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 60
+[2018.11.25-23.27.17:805][389]LogBlueprintUserMessages: [BP_MovingCoin2_11] Got Coin
+[2018.11.25-23.27.21:731][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.27.21:762][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.25-23.27.21:794][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.27.21:843][861]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2018.11.25-23.27.23:030][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.27.23:129][ 10]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.25-23.27.23:157][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.25-23.27.23:158][ 10]PIE: New page: PIE session: Level1SN (26 Nov 2018 9:27:23 pm)
+[2018.11.25-23.27.23:158][ 10]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.27.23:162][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004494s)
+[2018.11.25-23.27.23:163][ 10]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.27.23:163][ 10]LogPlayLevel: PIE: World Init took: (0.000522s)
+[2018.11.25-23.27.23:163][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005148s)
+[2018.11.25-23.27.23:195][ 10]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.25-23.27.23:204][ 10]LogInit: FAudioDevice initialized.
+[2018.11.25-23.27.23:237][ 10]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.27.23:240][ 10]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.27.23
+[2018.11.25-23.27.23:240][ 10]LogWorld: Bringing up level for play took: 0.002342
+[2018.11.25-23.27.23:254][ 10]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN 0.766
+[2018.11.25-23.27.24:341][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.27.24:458][130]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.27.24:467][130]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.27.24:500][130]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.27.24:505][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004808s)
+[2018.11.25-23.27.24:505][130]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.27.24:505][130]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2018.11.25-23.27.24:506][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005541s)
+[2018.11.25-23.27.24:506][130]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.27.24:509][130]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.27.24
+[2018.11.25-23.27.24:510][130]LogWorld: Bringing up level for play took: 0.002837
+[2018.11.25-23.27.24:512][130]LogLoad: Took 0.044735 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN)
+[2018.11.25-23.27.36:457][299]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-23.27.36:457][299]LogBlueprintUserMessages: [BP_Coin_2] Got Coin
+[2018.11.25-23.27.36:457][299]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.11.25-23.27.36:457][299]LogBlueprintUserMessages: [BP_Coin2] Got Coin
+[2018.11.25-23.27.37:442][408]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2018.11.25-23.27.37:442][408]LogBlueprintUserMessages: [BP_MovingCoin_8] Got Coin
+[2018.11.25-23.27.37:951][469]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.11.25-23.27.37:951][469]LogBlueprintUserMessages: [BP_Coin5] Got Coin
+[2018.11.25-23.27.39:969][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.27.40:001][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.25-23.27.40:032][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.27.40:077][712]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2018.11.25-23.27.48:593][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.27.48:684][357]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.25-23.27.48:713][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.25-23.27.48:713][357]PIE: New page: PIE session: Level1SN (26 Nov 2018 9:27:48 pm)
+[2018.11.25-23.27.48:713][357]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.27.48:720][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006998s)
+[2018.11.25-23.27.48:721][357]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.27.48:721][357]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2018.11.25-23.27.48:721][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.007814s)
+[2018.11.25-23.27.48:749][357]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.25-23.27.48:758][357]LogInit: FAudioDevice initialized.
+[2018.11.25-23.27.48:789][357]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.27.48:792][357]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.27.48
+[2018.11.25-23.27.48:793][357]LogWorld: Bringing up level for play took: 0.002694
+[2018.11.25-23.27.48:806][357]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN 0.319
+[2018.11.25-23.27.49:825][460]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.27.49:833][460]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.27.49:858][460]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.27.49:863][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004545s)
+[2018.11.25-23.27.49:863][460]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.27.49:863][460]LogPlayLevel: PIE: World Init took: (0.000480s)
+[2018.11.25-23.27.49:863][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005194s)
+[2018.11.25-23.27.49:863][460]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.27.49:866][460]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.27.49
+[2018.11.25-23.27.49:867][460]LogWorld: Bringing up level for play took: 0.002487
+[2018.11.25-23.27.49:869][460]LogLoad: Took 0.035913 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN)
+[2018.11.25-23.27.53:770][840]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-23.27.53:771][840]LogBlueprintUserMessages: [BP_Coin_2] Got Coin
+[2018.11.25-23.27.53:771][840]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.11.25-23.27.53:771][840]LogBlueprintUserMessages: [BP_Coin2] Got Coin
+[2018.11.25-23.27.54:801][959]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2018.11.25-23.27.54:801][959]LogBlueprintUserMessages: [BP_Coin5] Got Coin
+[2018.11.25-23.27.55:393][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2018.11.25-23.27.55:394][ 30]LogBlueprintUserMessages: [BP_MovingCoin2_11] Got Coin
+[2018.11.25-23.27.55:844][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 50
+[2018.11.25-23.27.55:844][ 84]LogBlueprintUserMessages: [BP_Coin3] Got Coin
+[2018.11.25-23.27.59:940][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.27.59:975][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.25-23.28.00:004][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.28.00:047][573]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2018.11.25-23.28.04:427][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.28.04:901][975]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.25-23.28.04:929][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.25-23.28.04:930][975]PIE: New page: PIE session: Level1SN (26 Nov 2018 9:28:04 pm)
+[2018.11.25-23.28.04:930][975]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.28.04:935][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004638s)
+[2018.11.25-23.28.04:935][975]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.28.04:935][975]LogPlayLevel: PIE: World Init took: (0.000503s)
+[2018.11.25-23.28.04:935][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005302s)
+[2018.11.25-23.28.04:967][975]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.25-23.28.04:976][975]LogInit: FAudioDevice initialized.
+[2018.11.25-23.28.05:007][975]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.28.05:010][975]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.28.05
+[2018.11.25-23.28.05:010][975]LogWorld: Bringing up level for play took: 0.002335
+[2018.11.25-23.28.05:030][975]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN 0.542
+[2018.11.25-23.28.06:509][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.28.06:613][136]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.28.06:623][136]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.28.06:649][136]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.28.06:654][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004758s)
+[2018.11.25-23.28.06:654][136]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.28.06:655][136]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2018.11.25-23.28.06:655][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005597s)
+[2018.11.25-23.28.06:655][136]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.28.06:658][136]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.28.06
+[2018.11.25-23.28.06:658][136]LogWorld: Bringing up level for play took: 0.002533
+[2018.11.25-23.28.06:660][136]LogLoad: Took 0.037608 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN)
+[2018.11.25-23.28.10:558][516]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-23.28.10:558][516]LogBlueprintUserMessages: [BP_Coin_2] Got Coin
+[2018.11.25-23.28.10:558][516]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2018.11.25-23.28.10:558][516]LogBlueprintUserMessages: [BP_Coin2] Got Coin
+[2018.11.25-23.28.12:756][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.28.12:795][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.25-23.28.12:822][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.28.12:867][753]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2018.11.25-23.28.14:855][883]LogEditorViewport: Clicking on Actor (LMB): BP_Coin_C (BP_Coin2)
+[2018.11.25-23.28.16:913][109]Cmd: DELETE
+[2018.11.25-23.28.16:913][109]Cmd: ACTOR DELETE
+[2018.11.25-23.28.16:916][109]LogEditorActor: Deleted Actor: BP_Coin_C
+[2018.11.25-23.28.16:942][109]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.11.25-23.28.18:017][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.28.18:121][245]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.25-23.28.18:151][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.25-23.28.18:151][245]PIE: New page: PIE session: Level1SN (26 Nov 2018 9:28:18 pm)
+[2018.11.25-23.28.18:151][245]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.28.18:156][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004548s)
+[2018.11.25-23.28.18:156][245]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.28.18:156][245]LogPlayLevel: PIE: World Init took: (0.000508s)
+[2018.11.25-23.28.18:157][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005210s)
+[2018.11.25-23.28.18:190][245]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.25-23.28.18:200][245]LogInit: FAudioDevice initialized.
+[2018.11.25-23.28.18:233][245]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.28.18:236][245]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.28.18
+[2018.11.25-23.28.18:236][245]LogWorld: Bringing up level for play took: 0.002391
+[2018.11.25-23.28.18:250][245]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN -0.238
+[2018.11.25-23.28.19:186][342]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.28.19:188][342]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1SN
+[2018.11.25-23.28.19:221][342]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN
+[2018.11.25-23.28.19:226][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004636s)
+[2018.11.25-23.28.19:226][342]LogAIModule: Creating AISystem for world Level1SN
+[2018.11.25-23.28.19:226][342]LogPlayLevel: PIE: World Init took: (0.000504s)
+[2018.11.25-23.28.19:226][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1SN.Level1SN to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN (0.005371s)
+[2018.11.25-23.28.19:226][342]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.25-23.28.19:230][342]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN.Level1SN up for play (max tick rate 0) at 2018.11.26-10.28.19
+[2018.11.25-23.28.19:230][342]LogWorld: Bringing up level for play took: 0.002423
+[2018.11.25-23.28.19:232][342]LogLoad: Took 0.043920 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1SN)
+[2018.11.25-23.28.21:174][544]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2018.11.25-23.28.21:174][544]LogBlueprintUserMessages: [BP_Coin_2] Got Coin
+[2018.11.25-23.28.23:631][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.28.23:668][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.25-23.28.23:698][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.25-23.28.23:741][823]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2018.11.25-23.28.30:946][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.25-23.28.33:883][ 30]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BP_ScoreTable.BP_ScoreTable
+[2018.11.25-23.28.41:049][840]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BP_GameInstance.BP_GameInstance
+[2018.11.25-23.28.51:315][ 28]LogSlate: Took 0.005742 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.11.25-23.29.07:767][991]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/UIBlueprints/ScoreTable.ScoreTable
+[2018.11.25-23.29.20:632][471]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/LevelObjects/BP_NextLevel.BP_NextLevel
+[2018.11.25-23.29.24:844][908]LogUObjectArray: Warning: Other object in slot
+[2018.11.25-23.29.24:971][908]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.127 s
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: 
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: Stack: 
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ffec8d671e6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ffec8aa0c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ffec8abb346 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ffec15e11db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ffec15f060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ffec55eda3a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ffebf68ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ffebf64f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ffeca248204 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ffeca48e933 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ffeca2a281a UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ffeca278190 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ffeca26b073 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ffee105d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ffee1050270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ffee105f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ffee104c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007fff05386d41 USER32.dll!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007fff05386713 USER32.dll!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ffee1060646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ff7657a54e5 UE4Editor.exe!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ff7657b5b3c UE4Editor.exe!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ff7657b5bba UE4Editor.exe!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ff7657c3dac UE4Editor.exe!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007ff7657c5aaa UE4Editor.exe!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007fff07433034 KERNEL32.DLL!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: [Callstack] 0x00007fff07c71471 ntdll.dll!UnknownFunction []
+[2018.11.25-23.29.24:971][908]LogOutputDevice: Error: 
+[2018.11.25-23.29.24:973][908]LogStats:                SubmitErrorReport -  0.000 s
